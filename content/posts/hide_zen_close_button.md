@@ -1,5 +1,5 @@
 +++
-date = 2024-03-12T06:34:54-08:00
+date = 2025-03-11T06:34:54-08:00
 draft = false
 title = 'Hide the Close Button (or Any Similar UI Element) in Zen Browser'
 +++
