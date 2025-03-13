@@ -132,7 +132,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "116"
+    "wordCount": "150"
   }
   </script>
     
@@ -345,6 +345,15 @@
 
     
     
+      <span class="ps-2"><span class="flex">
+  <span
+    class="ms-1 rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    Draft
+  </span>
+</span>
+</span>
+    
   </div>
 
   
@@ -370,6 +379,9 @@
   <ul>
     <li><a href="#requirements">requirements</a></li>
     <li><a href="#installing-the-site-and-theme">Installing the site and theme</a></li>
+    <li><a href="#content">Content</a></li>
+    <li><a href="#hosting">Hosting</a></li>
+    <li><a href="#add-comments-system">Add Comments system</a></li>
   </ul>
 </nav>
   </div>
@@ -379,7 +391,7 @@
         </div>
       
       <div class="min-h-0 min-w-0 max-w-prose grow">
-        <p>I wanna update my site using Hugo. Here are some logs.</p>
+        <p>I wanna build my site using Hugo. Here are some logs.</p>
 <p>I use the Congo theme.</p>
 <p>Following the <a href="https://jpanther.github.io/congo/docs/" target="_blank" rel="noreferrer">theme documentation</a>.</p>
 <p>First, we need to initialize the site and the theme.</p>
@@ -410,7 +422,11 @@ touch module.toml
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[[</span><span class="nx">imports</span><span class="p">]]</span>
 </span></span><span class="line"><span class="cl"><span class="nx">path</span> <span class="p">=</span> <span class="s2">&#34;github.com/jpanther/congo/v2&#34;</span>
 </span></span></code></pre></div><p>Start your server using <code>hugo server</code> and the theme will be downloaded automatically.</p>
-<p>&hellip;</p>
+<h2 id="content" class="relative group">Content <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#content" aria-label="Anchor">#</a></span></h2><p>Add content in the &lsquo;&lsquo;content/post&rsquo;&rsquo; folder.</p>
+<p>More information: <a href="https://gohugo.io/getting-started/directory-structure/" target="_blank" rel="noreferrer">Directory structure</a></p>
+<h2 id="hosting" class="relative group">Hosting <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#hosting" aria-label="Anchor">#</a></span></h2><p>I host this website on github using github pages.</p>
+<p>See <a href="https://gohugo.io/host-and-deploy/host-on-github-pages/" target="_blank" rel="noreferrer">Host on GitHub Pages</a></p>
+<h2 id="add-comments-system" class="relative group">Add Comments system <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#add-comments-system" aria-label="Anchor">#</a></span></h2><p>I use Giscus for Comments system.</p>
 
       </div>
     </section>

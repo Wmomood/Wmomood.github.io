@@ -1,11 +1,11 @@
 +++
 date = '2025-03-12T17:22:50+08:00'
-draft = false
+draft = true
 title = 'Building this Website'
 +++
 
 
-I wanna update my site using Hugo. Here are some logs.
+I wanna build my site using Hugo. Here are some logs.
 
 I use the Congo theme.
 
@@ -46,6 +46,20 @@ path = "github.com/jpanther/congo/v2"
 ```
 Start your server using ``hugo server`` and the theme will be downloaded automatically.
 
+## Content
+
+Add content in the ''content/post'' folder.
+
+More information: [Directory structure](https://gohugo.io/getting-started/directory-structure/)
+
+## Hosting
+
+I host this website on github using github pages.
+
+See [Host on GitHub Pages](https://gohugo.io/host-and-deploy/host-on-github-pages/)
 
 
-...
+
+## Add Comments system
+
+I use Giscus for Comments system.
