@@ -2,7 +2,6 @@
 date = 2024-03-12T06:34:54-08:00
 draft = false
 title = 'Hide the Close Button (or Any Similar UI Element) in Zen Browser'
-weight = 10
 +++
 
 After Zen Browser updated to version 1.9b, a small close button appears when hovering over a tab (in the Collapsed Toolbar Layout).
@@ -11,9 +10,9 @@ I want to remove it, but I couldn't find any option to do so.
 
 ## Hide the Close Button
 
-1. In Zen Browser, Type about:support in the address bar and press Enter.
+1. In Zen Browser, Type ``about:support`` in the address bar and press Enter.
 2. Look for the ``Profile Directory`` section.
-3. Create a file named ``userChrome.css`` in your ''Profile Directory/chrome'' (Create the ``chome`` folder if it doesn’t exist)
+3. Create a file named ``userChrome.css`` in your ``Profile Directory/chrome`` (Create the ``chome`` folder if it doesn’t exist)
 4. Add the following CSS to ``userChrome.css``  
 ```css
 .tab-close-button.close-icon {

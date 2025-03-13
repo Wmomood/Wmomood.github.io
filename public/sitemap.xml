@@ -11,13 +11,6 @@
   
     
       <url>
-            <loc>//localhost:1313/posts/hide_zen_close_button/</loc>
-            <lastmod>2024-03-12T06:34:54-08:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
             <loc>//localhost:1313/posts/</loc>
             <lastmod>2025-03-12T17:22:50+08:00</lastmod>
           </url>
@@ -34,6 +27,20 @@
       <url>
             <loc>//localhost:1313/_about/</loc>
             <lastmod>2025-03-12T17:03:50+08:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/posts/my_records/</loc>
+            <lastmod>2024-10-15T07:01:33+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/posts/hide_zen_close_button/</loc>
+            <lastmod>2024-03-12T06:34:54-08:00</lastmod>
           </url>
     
   

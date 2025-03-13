@@ -2,7 +2,6 @@
 date = '2025-03-12T17:22:50+08:00'
 draft = false
 title = 'Building this Website'
-weight = 10
 +++
 
 I wanna update my site using Hugo. Here are some logs.

@@ -16,17 +16,24 @@
       <description></description>
     </item>
     <item>
-      <title>Hide the Close Button (or Any Similar UI Element) in Zen Browser</title>
-      <link>//localhost:1313/posts/hide_zen_close_button/</link>
-      <pubDate>Tue, 12 Mar 2024 06:34:54 -0800</pubDate>
-      <guid>//localhost:1313/posts/hide_zen_close_button/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>About Me</title>
       <link>//localhost:1313/_about/</link>
       <pubDate>Wed, 12 Mar 2025 17:03:50 +0800</pubDate>
       <guid>//localhost:1313/_about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My records</title>
+      <link>//localhost:1313/posts/my_records/</link>
+      <pubDate>Tue, 15 Oct 2024 07:01:33 +0000</pubDate>
+      <guid>//localhost:1313/posts/my_records/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hide the Close Button (or Any Similar UI Element) in Zen Browser</title>
+      <link>//localhost:1313/posts/hide_zen_close_button/</link>
+      <pubDate>Tue, 12 Mar 2024 06:34:54 -0800</pubDate>
+      <guid>//localhost:1313/posts/hide_zen_close_button/</guid>
       <description></description>
     </item>
   </channel>
