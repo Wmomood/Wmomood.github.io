@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wmomood</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Wmomood</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Mar 2025 17:22:50 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building this Website</title>
+      <link>//localhost:1313/posts/building_this_website/</link>
+      <pubDate>Wed, 12 Mar 2025 17:22:50 +0800</pubDate>
+      <guid>//localhost:1313/posts/building_this_website/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hide the Close Button (or Any Similar UI Element) in Zen Browser</title>
+      <link>//localhost:1313/posts/hide_zen_close_button/</link>
+      <pubDate>Tue, 12 Mar 2024 06:34:54 -0800</pubDate>
+      <guid>//localhost:1313/posts/hide_zen_close_button/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
