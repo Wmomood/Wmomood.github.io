@@ -6,8 +6,29 @@
     <description>Recent content in Posts on Wmomood</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Mar 2025 17:22:50 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 22:41:08 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is Wine</title>
+      <link>//localhost:1313/posts/what-is-wine/</link>
+      <pubDate>Sun, 06 Apr 2025 22:41:08 +0800</pubDate>
+      <guid>//localhost:1313/posts/what-is-wine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Using Yabridge to Run Windows Vst Plugins on Linux</title>
+      <link>//localhost:1313/posts/using-yabridge-to-run-windows-vst-plugins-on-linux/</link>
+      <pubDate>Sun, 06 Apr 2025 22:38:09 +0800</pubDate>
+      <guid>//localhost:1313/posts/using-yabridge-to-run-windows-vst-plugins-on-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transcribing Music with REAPER</title>
+      <link>//localhost:1313/posts/transcribing-music-with-reaper/</link>
+      <pubDate>Sat, 05 Apr 2025 20:25:03 +0800</pubDate>
+      <guid>//localhost:1313/posts/transcribing-music-with-reaper/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Building this Website</title>
       <link>//localhost:1313/posts/building_this_website/</link>
@@ -24,9 +45,9 @@
     </item>
     <item>
       <title>My records</title>
-      <link>//localhost:1313/posts/my_records/</link>
+      <link>//localhost:1313/posts/my-records/</link>
       <pubDate>Tue, 15 Oct 2024 07:01:33 +0000</pubDate>
-      <guid>//localhost:1313/posts/my_records/</guid>
+      <guid>//localhost:1313/posts/my-records/</guid>
       <description></description>
     </item>
   </channel>
