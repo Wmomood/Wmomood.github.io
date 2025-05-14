@@ -115,7 +115,7 @@ title = 'My Music and Transcriptions'
   <source src="/media/gi/Inevitable Conflict 250113.mp3" type="audio/mpeg">
 </audio>
 
-#### Soundtrack from Genshin Impact v5.4
+#### 《繚繞於思 Entwined in Thought》
 <audio controls>
   <source src="/media/gi/mizuki 0325.mp3" type="audio/mpeg">
 </audio>
