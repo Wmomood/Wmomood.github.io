@@ -6,7 +6,7 @@ title = 'In Pursuit of Lumen'
 ## 幽微尋繹之集 In Pursuit of Lumen
 
 <!-- 封面圖 -->
-<img src="/media/In-Pursuit-of-Lumen/cover.png" alt="Album Cover" style="max-width:300px; margin-bottom:20px;">
+<img src="/media/In-Pursuit-of-Lumen/cover.png" alt="Album Cover" style="max-width:600px; margin-bottom:20px;">
 
 <!-- 音樂列表 -->
 #### 幽影跡如附 The Phantom's Trail
