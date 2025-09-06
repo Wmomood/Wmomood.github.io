@@ -6,11 +6,12 @@ title = 'My Music and Transcriptions'
 
 ## Originals
 
+#### In Pursuit of Lumen
 [In Pursuit of Lumen](https://wmomood.github.io/posts/in-pursuit-of-lumen/)
 
 #### 0824
 <audio controls>
-  <source src="/media/momo/0824 31.mp3" type="audio/mpeg">
+  <source src="/media/momo/0824 32.flac" type="audio/flac">
 </audio>
 
 #### 0819
