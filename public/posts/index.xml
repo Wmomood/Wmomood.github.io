@@ -4,7 +4,7 @@
     <title>Posts on Wmomood</title>
     <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Wmomood</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 23 Aug 2025 01:22:26 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,56 +13,56 @@
       <link>//localhost:1313/posts/in-pursuit-of-lumen/</link>
       <pubDate>Sat, 23 Aug 2025 01:22:26 +0800</pubDate>
       <guid>//localhost:1313/posts/in-pursuit-of-lumen/</guid>
-      <description></description>
+      <description>幽微尋繹之集 In Pursuit of Lumen #&#xD;幽影跡如附 The Phantom&amp;rsquo;s Trail #&#xD;Your browser does not support FLAC audio.</description>
     </item>
     <item>
       <title>Terminal Music Player</title>
       <link>//localhost:1313/posts/terminal-music-player/</link>
       <pubDate>Thu, 17 Apr 2025 02:30:19 +0800</pubDate>
       <guid>//localhost:1313/posts/terminal-music-player/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My Music and Transcriptions</title>
-      <link>//localhost:1313/posts/my-music-and-transcriptions/</link>
-      <pubDate>Sat, 05 Apr 2025 20:25:03 +0800</pubDate>
-      <guid>//localhost:1313/posts/my-music-and-transcriptions/</guid>
-      <description></description>
+      <description>Prepare #TerminalMusicPlayer/&#xD;├── CMakeLists.</description>
     </item>
     <item>
       <title>What Is Wine</title>
       <link>//localhost:1313/posts/what-is-wine/</link>
       <pubDate>Thu, 20 Mar 2025 22:41:08 +0800</pubDate>
       <guid>//localhost:1313/posts/what-is-wine/</guid>
-      <description></description>
+      <description>Wine stands for &amp;ldquo;Wine Is Not an Emulator&amp;rdquo;.</description>
     </item>
     <item>
       <title>Using Yabridge to Run Windows Vst Plugins on Linux</title>
       <link>//localhost:1313/posts/using-yabridge-to-run-windows-vst-plugins-on-linux/</link>
       <pubDate>Thu, 20 Mar 2025 22:38:09 +0800</pubDate>
       <guid>//localhost:1313/posts/using-yabridge-to-run-windows-vst-plugins-on-linux/</guid>
-      <description></description>
+      <description>yabridge is a powerful tool that allows you to use Windows VST2 and VST3 plugins seamlessly on Linux through Wine.</description>
     </item>
     <item>
       <title>Building this Website</title>
       <link>//localhost:1313/posts/building_this_website/</link>
       <pubDate>Wed, 12 Mar 2025 17:22:50 +0800</pubDate>
       <guid>//localhost:1313/posts/building_this_website/</guid>
-      <description></description>
+      <description>I wanna build my site using Hugo.</description>
     </item>
     <item>
       <title>Hide the Close Button (or Any Similar UI Element) in Zen Browser</title>
       <link>//localhost:1313/posts/hide_zen_close_button/</link>
       <pubDate>Tue, 11 Mar 2025 06:34:54 -0800</pubDate>
       <guid>//localhost:1313/posts/hide_zen_close_button/</guid>
-      <description></description>
+      <description>After Zen Browser updated to version 1.</description>
     </item>
     <item>
       <title>My records</title>
       <link>//localhost:1313/posts/my-records/</link>
       <pubDate>Tue, 15 Oct 2024 07:01:33 +0000</pubDate>
       <guid>//localhost:1313/posts/my-records/</guid>
-      <description></description>
+      <description>高中紀錄 #競賽紀錄 # APCS大學程式設計先修檢測 # 全國 | 個人 | 2024/06/16 最高觀念四級分、實作四級分 文件: 2024年國家科學及技術委員會 GenAl Stars生成式AI百工百業應用選拔 # 全國 | 團體 | 2024/10 特優 文件(特優): 文件(入圍複審): CPE大學程式能力檢定 # CPE大學程式能力檢定 | 2024/10/15 解題數: 2題 文件: YTP少年圖靈計畫-程式挑戰營 # YTP少年圖靈計畫-程式挑戰營 | 2024/8/3 參與證明 文件: 第十屆國立成功大學暑期高中生程式設計邀請賽-初賽 # 全國 | 團體 | 2024/4/14 參與證明 文件: 2024 FUN AI WINTER CAMP # 全國 | 個人 | 2024/02/04 表現特優 文件: USACO # 國際 | 個人 | 2024/01/17 銅牌 | 1000 (rank 1) 文件: 高中生AI扎根系列活動 # 全國 | 團體 | 2023/08/26</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/my-music-and-transcriptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/my-music-and-transcriptions/</guid>
+      <description>&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD +++ date = &amp;lsquo;2025-04-05T20:25:03+08:00&amp;rsquo; draft = false title = &amp;lsquo;My Music and Transcriptions&amp;rsquo; +++</description>
     </item>
   </channel>
 </rss>
